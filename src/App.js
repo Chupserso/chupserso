@@ -39,7 +39,7 @@ const App = () => {
         logo: movieslogo,
       },
       {
-        title: "WorkSounder",
+        title: "WK-Sounds",
         stack: "Tech stack: React.js",
         descr: "A website where you can listen to the sounds of nature. ",
         fullDescr: "I created a website about listening to nature sounds to help me focus while working. ",
